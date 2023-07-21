@@ -1,6 +1,6 @@
 // Instalação TypeScript -> npm i -g typescript
 // Instalação de pacote para rodar no terminal -> npm i -g ts-node
-// Para rodar no terminal-> ts-node arquivo.ts
+// Para rodar no terminal-> npx ts-node arquivo.ts
 // Instalação de Prompt-Sync ->npm i prompt-sync
 // Rodar prompt-sync -> npm i --save-dev @types/prompt-sync
 
